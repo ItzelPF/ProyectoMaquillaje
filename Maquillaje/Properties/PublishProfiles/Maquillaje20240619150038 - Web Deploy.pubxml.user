@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAos/C+0JBRU2A2v6BWlX39AAAAAACAAAAAAAQZgAAAAEAACAAAAA2z/h5lBb2NaoI2/xmH0tTGJiasKpwrmh+SIkdDwbB2gAAAAAOgAAAAAIAACAAAADpY0eyEP/rbhimJ/8IemTh1dGkR8sXgH7w9TDU4DqGiIAAAAChT0NmliHOdTeS3cb9lHvB4+sPVBlZRJXDlAv6VZWmJLusesrzJzIbk5iJeINaQn2VBqIVtzOY00WC0qJ5KK1AnVGtMyDmvkEtVyUwiXP3hhv0qIdx2bQpGZ0RSquDeOpFIwgRmOH+RS7ARNIn/Dq37wcWKLmNSWUH9CoTzh/jC0AAAAC4m/hgLSox4KjpYbaDRw6SMRgpZPoMi56J2Af5S/rZeDC2pts7c0p9ICOzneJabZqTJr3NDl6UYqkErILAKYqK</EncryptedPassword>
+    <History>True|2024-06-22T01:27:46.2912033Z;False|2024-06-21T19:26:38.3934394-06:00;True|2024-06-20T09:10:58.4421457-06:00;True|2024-06-20T09:00:15.1633724-06:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=maquillajedbserver.database.windows.net,1433%3bInitial Catalog=Maquillaje_db%3bUser ID=Itzel%3bPassword=imae_bd1</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="Maquillaje.Services.MaquillajeContext">
+      <Value>Data Source=maquillajedbserver.database.windows.net,1433%3bInitial Catalog=Maquillaje_db%3bUser ID=Itzel%3bPassword=imae_bd1</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

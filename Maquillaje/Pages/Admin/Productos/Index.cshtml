@@ -1,0 +1,45 @@
+﻿@page
+@model Maquillaje.Pages.Admin.Productos.IndexModel
+@{
+}
+<!-- Estrucutra de la página donde se muestran los productos registrados-->
+<!-- Contiene un botón para agregar producto que nos mandará a otra página-->
+<!-- Contiene una tabla y cada registro dos botones (eliminar y editar)
+    el botón de editar nos mandará a otra página
+-->
+
+<h2 class="text-center mb-5">Lista de productos de maquillaje</h2>
+<div class="row mb-5">
+    <div class="col">
+        <a class="btn btn-primary" href="/Admin/Productos/Create">Nuevo producto</a>
+    </div>
+    <div class="col">
+
+    </div>
+</div>
+
+<table class="table">
+    <tr>
+        <th>Id</th>
+        <th>Nombre</th>
+        <th>Marca</th>
+        <th>Tono</th>
+        <th>Precio</th>
+        <th>Imagen</th>
+    </tr>
+    @foreach(var producto in Model.Productos)
+    {
+        <tr>
+            <td>@producto.Id</td>
+            <td>@producto.Nombre</td>
+            <td>@producto.Marca</td>
+            <td>@producto.Tono</td>
+            <td>@(producto.Precio)$</td>
+            <td><img src="/Products/@producto.Imagen" width="100" /></td>
+            <td style="white-space:nowrap">
+                <a class="btn btn-primary btn-sm" href="/Admin/Productos/Editar?id=@producto.Id">Editar</a>
+                <a class="btn btn-primary btn-sm" href="/Admin/Productos/Eliminar?id=@producto.Id">Eliminar</a>
+            </td>
+        </tr>
+    }
+</table>

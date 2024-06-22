@@ -1,0 +1,39 @@
+﻿<!-- Parte compartida por todos los archivos cshtml -->
+<!-- que contiene la estructura del header-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Maquillaje</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Maquillaje.styles.css" asp-append-version="true" />
+</head>
+<body>
+
+    <header>
+        <a asp-area="" asp-page="/Index" id="logo">
+            <img src="~/img/icono.png" alt="Logo">
+        </a>
+        <nav class="menu">
+            <a asp-area="" asp-page="/Index">Inicio</a>
+            <a asp-area="" asp-page="/Admin/Productos/Index">Productos</a>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

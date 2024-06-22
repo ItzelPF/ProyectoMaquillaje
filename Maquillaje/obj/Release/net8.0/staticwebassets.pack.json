@@ -1,0 +1,441 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\Maquillaje.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Maquillaje.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\Products\\20240619101246595.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240619101246595.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\Products\\20240619101323876.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240619101323876.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\Products\\20240619133908316.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240619133908316.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\Products\\BaseVogue.jpg",
+      "PackagePath": "staticwebassets\\Products\\BaseVogue.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\Products\\CorrectorForever.png",
+      "PackagePath": "staticwebassets\\Products\\CorrectorForever.png"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\Products\\FijadorMaryKay.jpg",
+      "PackagePath": "staticwebassets\\Products\\FijadorMaryKay.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\Products\\GlossMaybelline.jpg",
+      "PackagePath": "staticwebassets\\Products\\GlossMaybelline.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\Products\\IluminadorTelva.jpg",
+      "PackagePath": "staticwebassets\\Products\\IluminadorTelva.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\Products\\LabialTelva.jpg",
+      "PackagePath": "staticwebassets\\Products\\LabialTelva.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\Products\\PolvoBissu.jpg",
+      "PackagePath": "staticwebassets\\Products\\PolvoBissu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\Products\\PrimeNYX.jpeg",
+      "PackagePath": "staticwebassets\\Products\\PrimeNYX.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\Products\\RimelProsa.jpg",
+      "PackagePath": "staticwebassets\\Products\\RimelProsa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\Products\\labialmac.jpg",
+      "PackagePath": "staticwebassets\\Products\\labialmac.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\img\\antes.png",
+      "PackagePath": "staticwebassets\\img\\antes.png"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\img\\artistico.jpg",
+      "PackagePath": "staticwebassets\\img\\artistico.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\img\\carrusel1.jpg",
+      "PackagePath": "staticwebassets\\img\\carrusel1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\img\\carrusel2.jpg",
+      "PackagePath": "staticwebassets\\img\\carrusel2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\img\\carrusel3.jpg",
+      "PackagePath": "staticwebassets\\img\\carrusel3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\img\\carrusel4.jpg",
+      "PackagePath": "staticwebassets\\img\\carrusel4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\img\\contorno.jpg",
+      "PackagePath": "staticwebassets\\img\\contorno.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\img\\corrector.png",
+      "PackagePath": "staticwebassets\\img\\corrector.png"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\img\\delineado.jpg",
+      "PackagePath": "staticwebassets\\img\\delineado.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\img\\delineadorLabios.jpg",
+      "PackagePath": "staticwebassets\\img\\delineadorLabios.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\img\\despues.png",
+      "PackagePath": "staticwebassets\\img\\despues.png"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\img\\dia.jpg",
+      "PackagePath": "staticwebassets\\img\\dia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\img\\diario.jpg",
+      "PackagePath": "staticwebassets\\img\\diario.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\img\\foto.jpg",
+      "PackagePath": "staticwebassets\\img\\foto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\img\\gloss.jpg",
+      "PackagePath": "staticwebassets\\img\\gloss.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\img\\hidratante.jpg",
+      "PackagePath": "staticwebassets\\img\\hidratante.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\img\\icono.png",
+      "PackagePath": "staticwebassets\\img\\icono.png"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\img\\labial.jpg",
+      "PackagePath": "staticwebassets\\img\\labial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\img\\labios.jpg",
+      "PackagePath": "staticwebassets\\img\\labios.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\img\\labios2.png",
+      "PackagePath": "staticwebassets\\img\\labios2.png"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\img\\noche.jpg",
+      "PackagePath": "staticwebassets\\img\\noche.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\img\\novia.jpg",
+      "PackagePath": "staticwebassets\\img\\novia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\img\\pestañas.jpg",
+      "PackagePath": "staticwebassets\\img\\pestañas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\img\\polvos.jpg",
+      "PackagePath": "staticwebassets\\img\\polvos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\img\\productos_ojos.jpg",
+      "PackagePath": "staticwebassets\\img\\productos_ojos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\img\\rostro.jpg",
+      "PackagePath": "staticwebassets\\img\\rostro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\img\\rubor.jpg",
+      "PackagePath": "staticwebassets\\img\\rubor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\img\\sombra.jpg",
+      "PackagePath": "staticwebassets\\img\\sombra.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\img\\subtono.jpg",
+      "PackagePath": "staticwebassets\\img\\subtono.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\img\\tinta.jpg",
+      "PackagePath": "staticwebassets\\img\\tinta.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\img\\tiposPiel.jpg",
+      "PackagePath": "staticwebassets\\img\\tiposPiel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\itzym\\OneDrive\\Documentos\\6to\\Desarrollo web\\ASP.NET\\Maquillaje\\Maquillaje\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.Maquillaje.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.Maquillaje.props",
+      "PackagePath": "build\\Maquillaje.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Maquillaje.props",
+      "PackagePath": "buildMultiTargeting\\Maquillaje.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.Maquillaje.props",
+      "PackagePath": "buildTransitive\\Maquillaje.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

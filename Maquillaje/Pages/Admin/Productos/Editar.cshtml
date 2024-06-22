@@ -1,0 +1,104 @@
+﻿@page
+@model Maquillaje.Pages.Admin.Productos.EditarModel
+@{
+}
+<!-- Estrucutra de la página donde se editarán los productos registrados-->
+<!-- Contiene los campos con los datos del producto para que puedan ser modificados-->
+<!-- y dos botones uno para enviar la modificación y otro para cancelar-->
+<div class="row">
+    <div class="col-md-8 mx-auto rounded border p-3">
+        <h2 class="text-center mb-5">Editar producto</h2>
+
+        @if (Model.errorMessage.Length > 0)
+        {
+            <div class='alert alert-warning alert-dismissible fade show' role='alert'>
+                <strong>@Model.errorMessage</strong>
+                <button type='button' class='btn-close' data-bs-dismiss='alert' aria-label='Close'></button>
+            </div>
+        }
+        else if (Model.successMessage.Length > 0)
+        {
+            <div class="alert alert-success alert-dismissible fade show" role="alert">
+                <strong>@Model.successMessage</strong>
+                <button type="button" class="btn-close" data-bs-dismiss="alert" arial-label="Close"></button>
+            </div>
+        }
+
+        <form method="post" enctype="multipart/form-data">
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">ID</label>
+                <div class="col-sm-8">
+                    <input readonly class="form-control-plaintext" value="@Model.Producto.Id">
+                </div>
+                
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Nombre</label>
+                <div class="col-sm-8">
+                    <select class="form-select" asp-for="ProductoDto.Nombre">
+                        <option value="Otro">Otro</option>
+                        <option value="Base">Base</option>
+                        <option value="Corrector">Corrector</option>
+                        <option value="Iluminador">Iluminador</option>
+                        <option value="Labial">Labial</option>
+                        <option value="Fijador">Fijador</option>
+                        <option value="Polvo">Polvo</option>
+                        <option value="Gloss">Gloss</option>
+                        <option value="Rimel">Rimel</option>
+                        <option value="Primer">Primer</option>
+                    </select>
+                </div>
+
+                <label class="col-sm-4 col-form-label">Marca</label>
+                <div class="col-sm-8">
+                    <input class="form-control" asp-for="ProductoDto.Marca">
+                    <span asp-validation-for="ProductoDto.Marca" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Tono</label>
+                <div class="col-sm-8">
+                    <input class="form-control" asp-for="ProductoDto.Tono">
+                    <span asp-validation-for="ProductoDto.Tono" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Precio</label>
+                <div class="col-sm-8">
+                    <input class="form-control" asp-for="ProductoDto.Precio">
+                    <span asp-validation-for="ProductoDto.Precio" class="text-danger"></span>
+                </div>
+            </div>
+
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label"></label>
+                <div class="col-sm-8">
+                  <img src="/Products/@Model.Producto.Imagen" width="150" />
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Imagen</label>
+                <div class="col-sm-8">
+                    <input class="form-control" asp-for="ProductoDto.Imagen">
+                    <span asp-validation-for="ProductoDto.Imagen" class="text-danger"></span>
+                </div>
+            </div>
+
+           
+            <div class="row mb-3">
+                <div class="offser-sm-4 col-sm-4 d-grid">
+                    <button type="submit" class="btn btn-primary">Enviar</button>
+                </div>
+                <div class="col-sm-4 d-grid">
+                    <a class="btn btn-outline-primary" href="/Admin/Productos/Index" role="button">Cancelar</a>
+                </div>
+            </div>
+
+        </form>
+    </div>
+</div>
